@@ -1,11 +1,6 @@
----
-layout: post
-title: "Datas of contents"
-subtitle: ''
-author: "Hufe"
-header-img: "img/post-bg-contents.jpg"
-header-mask: 0.3
----
+# 数据分析实战
+
+# Datas of contents
 
 * [Jupyter Notebook 小技巧](https://nbviewer.jupyter.org/github/hufe09/pydata_practice/blob/master/analysis/10-simple-hacks-to-speed-up-your-data-analysis-in-python.ipynb)
 * Data Wrangling (数据争夺)
